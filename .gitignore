@@ -1,0 +1,18 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Java build files
+target/
+*.jar
+*.war
+*.class
+
+# Ignore IntelliJ files
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore archives
+*.zip
